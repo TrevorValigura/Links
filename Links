@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Saber Power Quick Links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      color: #004080;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 20px 0;
+      padding: 20px;
+      background: #ffffff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      transition: background 0.2s ease;
+    }
+    li:hover {
+      background: #f1f7ff;
+    }
+    a {
+      font-size: 1.2em;
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .desc {
+      margin-top: 5px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔗 Saber Power Quick Links</h1>
+  <ul>
+    <li>
+      <a href="https://saberpower.lightning.force.com/lightning" target="_blank">SalesForce</a>
+      <div class="desc">Access the Saber Power SalesForce CRM portal</div>
+    </li>
+    <li>
+      <a href="https://online.adp.com/signin" target="_blank">ADP</a>
+      <div class="desc">Employee payroll, timecards, and HR access</div>
+    </li>
+    <li>
+      <a href="https://businesscentral.dynamics.com/" target="_blank">Business Central</a>
+      <div class="desc">Microsoft Dynamics Business Central platform</div>
+    </li>
+    <li>
+      <a href="https://prod.comdata.verian.com/" target="_blank">Corpay</a>
+      <div class="desc">Corpay / Comdata expense management portal</div>
+    </li>
+    <li>
+      <a href="https://saberpower.sharepoint.com/sites/SaberPowerFieldServices" target="_blank">SharePoint</a>
+      <div class="desc">Saber Power Field Services SharePoint site</div>
+    </li>
+    <li>
+      <a href="https://sabertech.bridgeapp.com/talent/home" target="_blank">Bridge</a>
+      <div class="desc">SaberTech Bridge LMS for training and development</div>
+    </li>
+    <li>
+      <a href="https://app.gomotive.com/en-US" target="_blank">Motiv</a>
+      <div class="desc">Motiv ELD and fleet management dashboard</div>
+    </li>
+    <li>
+      <a href="https://www.saberfdc.com/" target="_blank">Saber Field Data Pro</a>
+      <div class="desc">Access the Saber Field Data Pro application</div>
+    </li>
+    <li>
+      <a href="https://saberpower.mypointcenter.com/signin" target="_blank">Saber Rewards</a>
+      <div class="desc">Log into the Saber Rewards recognition portal</div>
+    </li>
+  </ul>
+</body>
+</html>
